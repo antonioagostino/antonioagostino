@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Antonio
 
-<a href="https://www.linkedin.com/in/antonino-agostino-676600190/>
+<a href="https://www.linkedin.com/in/antonino-agostino-676600190"/>
   <img align="left" alt="Antonio's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/antonioagostino83/">
